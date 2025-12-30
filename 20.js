@@ -31,5 +31,5 @@ try {
         console.log(`Product: ${name}, Price: $${price.toFixed(2)}, Quantity: ${quantity}, Category: ${category}`);
     });
 } catch (error) {
-    console.error('An error occurred during data processing:', error);
+    console.error('An error occurred during data processing:', error);l
 }
